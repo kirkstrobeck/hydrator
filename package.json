@@ -6,7 +6,7 @@
   "bugs": {
     "url": "https://github.com/kirkstrobeck/hydrator/issues"
   },
-  "description": "Reduce bundle size by pruning unnecessary hydration",
+  "description": "Reduce bundle size by pruning unnecessary hydrations",
   "devDependencies": {
     "@babel/cli": "^7.1.5",
     "@babel/core": "^7.1.6",
