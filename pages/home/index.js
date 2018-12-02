@@ -5,7 +5,7 @@ import hydrator from '../../src/hydrator';
 
 export default hydrator($ => (
   <Fragment>
-    <Header title="boo5" />
-    {$(<Header title="boo2" />)}
+    <Header title="Title prop 1" />
+    {$(<Header title="Title prop 2" />)}
   </Fragment>
 ));

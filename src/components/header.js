@@ -4,14 +4,13 @@ export default class Header extends Component {
   state = { msg: 'static' };
 
   componentDidMount() {
-    this.setState({ msg: 'hydrated!!' });
+    this.setState({ msg: 'hydrated!' });
   }
 
   render() {
     return (
       <h1>
-        {this.props.title}
-        {this.state.msg}
+        {this.props.title} {this.state.msg}
       </h1>
     );
   }
