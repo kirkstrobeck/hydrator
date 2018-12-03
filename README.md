@@ -1,8 +1,8 @@
 # Hydrator 🎈
 
-### Reduce bundle size by pruning unnecessary hydrations
+**[Example](https://kirkstrobeck.github.io/hydrator/example/)**
 
-[Example](https://kirkstrobeck.github.io/hydrator/example/)
+### Reduce bundle size by pruning unnecessary hydrations
 
 Get all the benefits of building in React without the processing and bundle size burdens of redundant hydration. In other words, React doesn’t need to control everything.
 
