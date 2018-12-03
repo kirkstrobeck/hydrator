@@ -1,4 +1,4 @@
-# Hydrator
+# Hydrator 🎈
 
 ### Reduce bundle size by pruning unnecessary hydrations
 
