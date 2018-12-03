@@ -2,6 +2,8 @@
 
 ### Reduce bundle size by pruning unnecessary hydrations
 
+[Example](https://kirkstrobeck.github.io/hydrator/example/)
+
 Get all the benefits of building in React without the processing and bundle size burdens of redundant hydration. In other words, React doesn’t need to control everything.
 
 For example, if you have a component that generates your nav and that nav won’t change based on props or state, then it shouldn’t be JS on the client. It can be JS when rendering on the server and HTML/CSS when shipped.
